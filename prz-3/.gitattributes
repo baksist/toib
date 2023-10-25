@@ -1,0 +1,1 @@
+serdyukov-policy-var3.spt filter=lfs diff=lfs merge=lfs -text
