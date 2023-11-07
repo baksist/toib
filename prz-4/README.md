@@ -69,3 +69,31 @@
 ### Просмотр логов клиента в Grafana
 
 ![](screenshots/17-viewing-logs.png)
+
+## Signoz
+
+### Запуск Signoz
+
+Установка согласно https://signoz.io/docs/install/docker/#install-signoz-using-docker-compose
+
+![](screenshots/18-start-signoz.png)
+
+### Рабочая панель Signoz
+
+![](screenshots/19-open-signoz.png)
+
+### Редактирование конфигурации клиентского приложения для отправки данных в Signoz
+
+Используемое приложение - https://github.com/SigNoz/sample-nodejs-app/
+
+![](screenshots/20-update-compose-client.png)
+
+### Запуск клиентского приложения
+
+![](screenshots/21-start-client.png)
+
+### Информация о приложении в Signoz
+
+![](screenshots/22-dashboards.png)
+
+![](screenshots/23-traces.png)
